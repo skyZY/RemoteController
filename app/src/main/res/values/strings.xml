@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteController</string>
+    <string name="btn_connect_string">连接PC端</string>
+</resources>
